@@ -13,13 +13,9 @@ This project contains source code of the desktop utility, a substantial part of 
 
 ## Installation
 
----
-
 Go to [this Notion page](https://facel.notion.site/Changelog-8c1d2d1edce249579de283425e42a4b6) to check the last available build of the package.
 
 ## How does it work?
-
----
 
 [Facel](https://facel.tech) uses ML to process data (facial expressions, typing patterns, musical preferences, and weather conditions) to prevent stress and fatigue at its very core.
 
@@ -34,8 +30,6 @@ Go to [this Notion page](https://facel.notion.site/Changelog-8c1d2d1edce249579de
 
 ## What is desktop utility?
 
----
-
 It is an app that catches your typing patterns so that [Facel](https://facel.tech) can analyze them and understand your emotional state.
 
 **The most interesting parts for you:**
@@ -46,8 +40,6 @@ It is an app that catches your typing patterns so that [Facel](https://facel.tec
 - [Keystroke combinations processor](https://github.com/facel-tech/desktop-utility/blob/master/python/processors/timing.py) processes keystroke timestamps to get mean and standard deviation of latencies between the presses of different combinations of keystrokes.
 
 ## Can I become a contributor?
-
----
 
 Glad you asked (because we actually need contributors).
 
@@ -61,7 +53,5 @@ The app is written on [pyqt](https://pypi.org/project/PyQt6/), so it is cross-pl
 
 
 ## I have some question, who should I contact?
-
----
 
 Write to [Denis](mailto:mixeden@facel.tech) in case you want some specific questions or you just want an invite code to Facel.
