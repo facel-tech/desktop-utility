@@ -33,11 +33,11 @@ Go to [this Notion page](https://facel.notion.site/Changelog-8c1d2d1edce249579de
 It is an app that catches your typing patterns so that [Facel](https://facel.tech) can analyze them and understand your emotional state.
 
 **The most interesting parts for you:**
-- [Keystroke listener](https://github.com/facel-tech/desktop-utility/blob/master/python/listeners/keyboard.py) monitors the keyboard events.
-- [Mouse listener](https://github.com/facel-tech/desktop-utility/blob/master/python/listeners/mouse.py) monitors the mouse events.
-- [Mouse processor](https://github.com/facel-tech/desktop-utility/blob/master/python/processors/mouse.py) computes various statistics of mouse events.
-- [Keystroke rates processor](https://github.com/facel-tech/desktop-utility/blob/master/python/processors/keystroke.py) processes keystroke timestamps to figure out the occurrences of backspace, punctuation, and other stuff.
-- [Keystroke combinations processor](https://github.com/facel-tech/desktop-utility/blob/master/python/processors/timing.py) processes keystroke timestamps to get mean and standard deviation of latencies between the presses of different combinations of keystrokes.
+- [Keystroke listener](https://github.com/facel-tech/desktop-utility/blob/main/python/listeners/keyboard.py) monitors the keyboard events.
+- [Mouse listener](https://github.com/facel-tech/desktop-utility/blob/main/python/listeners/mouse.py) monitors the mouse events.
+- [Mouse processor](https://github.com/facel-tech/desktop-utility/blob/main/python/processors/mouse.py) computes various statistics of mouse events.
+- [Keystroke rates processor](https://github.com/facel-tech/desktop-utility/blob/main/python/processors/keystroke.py) processes keystroke timestamps to figure out the occurrences of backspace, punctuation, and other stuff.
+- [Keystroke combinations processor](https://github.com/facel-tech/desktop-utility/blob/main/python/processors/timing.py) processes keystroke timestamps to get mean and standard deviation of latencies between the presses of different combinations of keystrokes.
 
 ## Can I become a contributor?
 
