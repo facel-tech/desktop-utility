@@ -3,6 +3,8 @@
 [Fork this repo](https://github.com/facel-tech/desktop-utility/fork)
 |
 [Visit website](https://facel.tech)
+|
+[Tweet this](https://twitter.com/intent/tweet?text=This%20tech%20is%20insanely%20cool%20&url=https://github.com/facel-tech/desktop-utility)
 
 ![illustration](./illustration.png)
 
